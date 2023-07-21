@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gestore Sim", "Gestore Sim.csproj", "{61990730-CFC8-440A-8487-DBA2D856AC34}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GestoreSimSetup", "..\GestoreSimSetup\GestoreSimSetup.vdproj", "{4911A275-8265-41F8-9710-C1E7EF9460CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61990730-CFC8-440A-8487-DBA2D856AC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61990730-CFC8-440A-8487-DBA2D856AC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61990730-CFC8-440A-8487-DBA2D856AC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61990730-CFC8-440A-8487-DBA2D856AC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4911A275-8265-41F8-9710-C1E7EF9460CA}.Debug|Any CPU.ActiveCfg = Debug
+		{4911A275-8265-41F8-9710-C1E7EF9460CA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3A463C-DB69-4AF6-BF9C-5247ACE1D95E}
+	EndGlobalSection
+EndGlobal
